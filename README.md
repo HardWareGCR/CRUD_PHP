@@ -32,4 +32,4 @@ Este projeto é um sistema de CRUD (Create, Read, Update, Delete) desenvolvido e
 - └── README.md            # Este arquivo
 
 ## Contribuições
-- Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
+- Contribuições são bem-vindas! Sinta-se à vontade para enviar solicitações pull ou abrir problemas.
