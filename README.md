@@ -23,13 +23,13 @@ Este projeto é um sistema de CRUD (Create, Read, Update, Delete) desenvolvido e
  Google Chrome, Firefox ou qualquer navegador atualizado.
 
 /crud_php/
-├── conexão.php          # Configuração de conexão com o banco de dados
-├── index.php            # Página inicial (Listagem de registros)
-├── novo_usuario.php     # Página para criar um novo registro
-├── editar_usuario.php   # Página para atualizar um registro
-├── listar_usuario.php   # Página para excluir um registro
-├── salvar_usuario.php   # Página para salvar um registro
-└── README.md            # Este arquivo
+- ├── conexão.php          # Configuração de conexão com o banco de dados
+- ├── index.php            # Página inicial (Listagem de registros)
+- ├── novo_usuario.php     # Página para criar um novo registro
+- ├── editar_usuario.php   # Página para atualizar um registro
+- ├── listar_usuario.php   # Página para excluir um registro
+- ├── salvar_usuario.php   # Página para salvar um registro
+- └── README.md            # Este arquivo
 
 ## Contribuições
 - Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
