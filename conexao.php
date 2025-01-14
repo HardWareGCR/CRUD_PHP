@@ -1,8 +1,8 @@
 <?php
-    define('HOST', 'hardware.mysql.dbaas.com.br');
-    define('USER','hardware');
-    define('PASSWORD',  'Si900970@#');
-    define('BASE','hardware');
+    define('HOST', 'localhost');
+    define('USER','host');
+    define('PASSWORD',  '');
+    define('BASE','cadastro');
 
     $conn = new MySQLi(HOST,USER,PASSWORD,BASE);
 
