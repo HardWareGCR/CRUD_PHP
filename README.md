@@ -1,4 +1,4 @@
-## CRUD em PHP - AVV2 ADS
+## CRUD em PHP - AV2 ADS
 Este projeto é um sistema de CRUD (Create, Read, Update, Delete) desenvolvido em PHP como parte da avaliação AVV2 do curso de Análise e Desenvolvimento de Sistemas (ADS). O sistema utiliza o servidor local XAMPP para hospedar a aplicação e o MySQL Workbench para gerenciar o banco de dados. O layout do projeto é responsivo e foi desenvolvido com o auxílio do framework Bootstrap.
 
 ## Funcionalidades
